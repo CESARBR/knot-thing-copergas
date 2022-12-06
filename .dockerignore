@@ -1,0 +1,36 @@
+docs/architecture/
+.env.example
+.gitlab-ci.yml
+.pre-commit-config.yaml
+*.md
+docker/
+LICENSE
+
+# Environments
+.env
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+app-*
+.vscode
+plantuml.jar
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+/vendor

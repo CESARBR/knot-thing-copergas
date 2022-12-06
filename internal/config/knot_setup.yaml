@@ -1,0 +1,3 @@
+url: "amqp://user:password@IP:5672"
+user_token : "User Knot Token"
+AMQPqueue: "Choose a unique queue name"

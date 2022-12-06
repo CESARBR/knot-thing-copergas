@@ -1,0 +1,11 @@
+credentials:
+  username: 
+  password: 
+endpoints:
+  APIUrl: 
+  authToken: 
+  variable: 
+pertinentVariables: []
+logFilename: "copergas.log"
+timeBetweenRequestsInSeconds: 30
+metadataCacheFilePath: "internal/config/data_context.yaml"

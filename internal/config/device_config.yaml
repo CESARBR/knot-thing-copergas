@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXX:
+  id: XXXXXXXXXXXXXXX
+  token:
+  name: device_name
+  config:
+  - sensorId: 1
+    schema:
+      valueType: 1
+      unit: 1
+      typeId: 65296
+      name: sensor_name
+    event:
+      change: true
+      timeSec: 12
+      lowerThreshold: null
+      upperThreshold: null
+  state: new
+  data: []
+  error:
